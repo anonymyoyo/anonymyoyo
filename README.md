@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anonymyoyo
 - 👀 I’m interested in digital technologies
-- 🌱 I’m currently learning LARAVEL & PHP
+- 🌱 I’m currently learning LARAVEL, PHP & NODE JS
 - 💞️ I’m looking to collaborate on digital and innovative projects
 - 📫 How to reach me : mail : paulemmanuelbohole5@gmail.com
 
