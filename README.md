@@ -2,7 +2,8 @@
 - 👀 I’m interested in digital technologies
 - 🌱 I’m currently learning LARAVEL, PHP & NODE JS
 - 💞️ I’m looking to collaborate on digital and innovative projects
-- 📫 How to reach me : mail : paulemmanuelbohole5@gmail.com
+- 📫 How to reach me : mail 1: paulemmanuelbohole5@gmail.com
+                       mail 2: boholepaul@icloud.com
 
 <!---
 anonymyoyo/anonymyoyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
